@@ -1,0 +1,83 @@
+{
+    "classes": [
+        {
+            "className": "SpeedInterface",
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "mappedSpeed",
+                    "notify": "mappedSpeedChanged",
+                    "read": "mappedSpeed",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "detectedSpeedLimit",
+                    "notify": "detectedSpeedLimitChanged",
+                    "read": "getSpeedLimit",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "SpeedInterface",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "serialValue",
+                            "type": "int"
+                        }
+                    ],
+                    "name": "serialValueChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "mappedSpeedChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "detectedSpeedLimitChanged",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "data",
+                            "type": "QByteArray"
+                        }
+                    ],
+                    "name": "serialValueHandle",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "speedinterface.h",
+    "outputRevision": 68
+}

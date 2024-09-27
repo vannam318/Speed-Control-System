@@ -1,0 +1,402 @@
+__main__: /home/nam/Downloads/rcssmin-1.1.2/rcssmin.py
+re: /usr/lib/python3.10/re.py
+enum: /usr/lib/python3.10/enum.py
+sys: None
+types: /usr/lib/python3.10/types.py
+functools: /usr/lib/python3.10/functools.py
+abc: /usr/lib/python3.10/abc.py
+_abc: None
+_py_abc: /usr/lib/python3.10/_py_abc.py
+_weakrefset: /usr/lib/python3.10/_weakrefset.py
+_weakref: None
+collections: /usr/lib/python3.10/collections/__init__.py
+_collections_abc: /usr/lib/python3.10/_collections_abc.py
+itertools: None
+keyword: /usr/lib/python3.10/keyword.py
+operator: /usr/lib/python3.10/operator.py
+builtins: None
+_operator: None
+reprlib: /usr/lib/python3.10/reprlib.py
+_thread: None
+_collections: None
+heapq: /usr/lib/python3.10/heapq.py
+_heapq: None
+doctest: /usr/lib/python3.10/doctest.py
+__future__: /usr/lib/python3.10/__future__.py
+difflib: /usr/lib/python3.10/difflib.py
+inspect: /usr/lib/python3.10/inspect.py
+ast: /usr/lib/python3.10/ast.py
+_ast: None
+contextlib: /usr/lib/python3.10/contextlib.py
+warnings: /usr/lib/python3.10/warnings.py
+_warnings: None
+linecache: /usr/lib/python3.10/linecache.py
+os: /usr/lib/python3.10/os.py
+stat: /usr/lib/python3.10/stat.py
+_stat: None
+posix: None
+posixpath: /usr/lib/python3.10/posixpath.py
+genericpath: /usr/lib/python3.10/genericpath.py
+pwd: None
+ntpath: /usr/lib/python3.10/ntpath.py
+string: /usr/lib/python3.10/string.py
+_string: None
+subprocess: /usr/lib/python3.10/subprocess.py
+errno: None
+io: /usr/lib/python3.10/io.py
+_io: None
+time: None
+signal: /usr/lib/python3.10/signal.py
+_signal: None
+threading: /usr/lib/python3.10/threading.py
+traceback: /usr/lib/python3.10/traceback.py
+_threading_local: /usr/lib/python3.10/_threading_local.py
+weakref: /usr/lib/python3.10/weakref.py
+copy: /usr/lib/python3.10/copy.py
+copyreg: /usr/lib/python3.10/copyreg.py
+atexit: None
+gc: None
+fcntl: None
+_posixsubprocess: None
+select: None
+selectors: /usr/lib/python3.10/selectors.py
+collections.abc: /usr/lib/python3.10/collections/abc.py
+math: None
+grp: None
+tokenize: /usr/lib/python3.10/tokenize.py
+codecs: /usr/lib/python3.10/codecs.py
+_codecs: None
+encodings: /usr/lib/python3.10/encodings/__init__.py
+encodings.aliases: /usr/lib/python3.10/encodings/aliases.py
+encodings.mbcs: /usr/lib/python3.10/encodings/mbcs.py
+token: /usr/lib/python3.10/token.py
+argparse: /usr/lib/python3.10/argparse.py
+gettext: /usr/lib/python3.10/gettext.py
+locale: /usr/lib/python3.10/locale.py
+_locale: None
+struct: /usr/lib/python3.10/struct.py
+_struct: None
+shutil: /usr/lib/python3.10/shutil.py
+fnmatch: /usr/lib/python3.10/fnmatch.py
+zlib: None
+bz2: /usr/lib/python3.10/bz2.py
+_compression: /usr/lib/python3.10/_compression.py
+_bz2: /usr/lib/python3.10/lib-dynload/_bz2.cpython-310-x86_64-linux-gnu.so
+lzma: /usr/lib/python3.10/lzma.py
+_lzma: /usr/lib/python3.10/lib-dynload/_lzma.cpython-310-x86_64-linux-gnu.so
+tarfile: /usr/lib/python3.10/tarfile.py
+gzip: /usr/lib/python3.10/gzip.py
+zipfile: /usr/lib/python3.10/zipfile.py
+binascii: None
+importlib: /usr/lib/python3.10/importlib/__init__.py
+_imp: None
+importlib._bootstrap: /usr/lib/python3.10/importlib/_bootstrap.py
+importlib._bootstrap_external: /usr/lib/python3.10/importlib/_bootstrap_external.py
+marshal: None
+importlib.readers: /usr/lib/python3.10/importlib/readers.py
+pathlib: /usr/lib/python3.10/pathlib.py
+urllib: /usr/lib/python3.10/urllib/__init__.py
+urllib.parse: /usr/lib/python3.10/urllib/parse.py
+unicodedata: None
+importlib.abc: /usr/lib/python3.10/importlib/abc.py
+importlib.machinery: /usr/lib/python3.10/importlib/machinery.py
+importlib._abc: /usr/lib/python3.10/importlib/_abc.py
+typing: /usr/lib/python3.10/typing.py
+importlib.metadata: /usr/lib/python3.10/importlib/metadata/__init__.py
+csv: /usr/lib/python3.10/csv.py
+_csv: None
+email: /usr/lib/python3.10/email/__init__.py
+email.parser: /usr/lib/python3.10/email/parser.py
+email.feedparser: /usr/lib/python3.10/email/feedparser.py
+email.errors: /usr/lib/python3.10/email/errors.py
+email._policybase: /usr/lib/python3.10/email/_policybase.py
+email.header: /usr/lib/python3.10/email/header.py
+email.quoprimime: /usr/lib/python3.10/email/quoprimime.py
+email.base64mime: /usr/lib/python3.10/email/base64mime.py
+base64: /usr/lib/python3.10/base64.py
+getopt: /usr/lib/python3.10/getopt.py
+email.charset: /usr/lib/python3.10/email/charset.py
+email.encoders: /usr/lib/python3.10/email/encoders.py
+quopri: /usr/lib/python3.10/quopri.py
+email.utils: /usr/lib/python3.10/email/utils.py
+random: /usr/lib/python3.10/random.py
+bisect: /usr/lib/python3.10/bisect.py
+_bisect: None
+_random: None
+_sha512: None
+hashlib: /usr/lib/python3.10/hashlib.py
+_hashlib: /usr/lib/python3.10/lib-dynload/_hashlib.cpython-310-x86_64-linux-gnu.so
+logging: /usr/lib/python3.10/logging/__init__.py
+pickle: /usr/lib/python3.10/pickle.py
+_compat_pickle: /usr/lib/python3.10/_compat_pickle.py
+_pickle: None
+pprint: /usr/lib/python3.10/pprint.py
+dataclasses: /usr/lib/python3.10/dataclasses.py
+_sha1: None
+_md5: None
+_sha256: None
+_blake2: None
+_sha3: None
+statistics: /usr/lib/python3.10/statistics.py
+numbers: /usr/lib/python3.10/numbers.py
+fractions: /usr/lib/python3.10/fractions.py
+decimal: /usr/lib/python3.10/decimal.py
+_decimal: /usr/lib/python3.10/lib-dynload/_decimal.cpython-310-x86_64-linux-gnu.so
+_pydecimal: /usr/lib/python3.10/_pydecimal.py
+contextvars: /usr/lib/python3.10/contextvars.py
+_contextvars: /usr/lib/python3.10/lib-dynload/_contextvars.cpython-310-x86_64-linux-gnu.so
+_statistics: None
+socket: /usr/lib/python3.10/socket.py
+_socket: None
+array: None
+datetime: /usr/lib/python3.10/datetime.py
+_datetime: None
+_strptime: /usr/lib/python3.10/_strptime.py
+calendar: /usr/lib/python3.10/calendar.py
+email._parseaddr: /usr/lib/python3.10/email/_parseaddr.py
+email.message: /usr/lib/python3.10/email/message.py
+uu: /usr/lib/python3.10/uu.py
+optparse: /usr/lib/python3.10/optparse.py
+textwrap: /usr/lib/python3.10/textwrap.py
+email._encoded_words: /usr/lib/python3.10/email/_encoded_words.py
+email.iterators: /usr/lib/python3.10/email/iterators.py
+email.generator: /usr/lib/python3.10/email/generator.py
+email.policy: /usr/lib/python3.10/email/policy.py
+email.headerregistry: /usr/lib/python3.10/email/headerregistry.py
+email._header_value_parser: /usr/lib/python3.10/email/_header_value_parser.py
+email.contentmanager: /usr/lib/python3.10/email/contentmanager.py
+importlib.metadata._adapters: /usr/lib/python3.10/importlib/metadata/_adapters.py
+importlib.metadata._text: /usr/lib/python3.10/importlib/metadata/_text.py
+importlib.metadata._functools: /usr/lib/python3.10/importlib/metadata/_functools.py
+importlib.metadata._meta: /usr/lib/python3.10/importlib/metadata/_meta.py
+importlib.metadata._collections: /usr/lib/python3.10/importlib/metadata/_collections.py
+importlib.metadata._itertools: /usr/lib/python3.10/importlib/metadata/_itertools.py
+importlib.util: /usr/lib/python3.10/importlib/util.py
+py_compile: /usr/lib/python3.10/py_compile.py
+tracemalloc: /usr/lib/python3.10/tracemalloc.py
+_tracemalloc: None
+dis: /usr/lib/python3.10/dis.py
+opcode: /usr/lib/python3.10/opcode.py
+_opcode: /usr/lib/python3.10/lib-dynload/_opcode.cpython-310-x86_64-linux-gnu.so
+pdb: /usr/lib/python3.10/pdb.py
+cmd: /usr/lib/python3.10/cmd.py
+readline: /usr/lib/python3.10/lib-dynload/readline.cpython-310-x86_64-linux-gnu.so
+bdb: /usr/lib/python3.10/bdb.py
+code: /usr/lib/python3.10/code.py
+codeop: /usr/lib/python3.10/codeop.py
+glob: /usr/lib/python3.10/glob.py
+shlex: /usr/lib/python3.10/shlex.py
+runpy: /usr/lib/python3.10/runpy.py
+pkgutil: /usr/lib/python3.10/pkgutil.py
+zipimport: /usr/lib/python3.10/zipimport.py
+pydoc: /usr/lib/python3.10/pydoc.py
+platform: /usr/lib/python3.10/platform.py
+plistlib: /usr/lib/python3.10/plistlib.py
+xml: /usr/lib/python3.10/xml/__init__.py
+xml.parsers: /usr/lib/python3.10/xml/parsers/__init__.py
+xml.parsers.expat: /usr/lib/python3.10/xml/parsers/expat.py
+pyexpat: None
+sysconfig: /usr/lib/python3.10/sysconfig.py
+_osx_support: /usr/lib/python3.10/_osx_support.py
+tempfile: /usr/lib/python3.10/tempfile.py
+_aix_support: /usr/lib/python3.10/_aix_support.py
+_bootsubprocess: /usr/lib/python3.10/_bootsubprocess.py
+tty: /usr/lib/python3.10/tty.py
+termios: /usr/lib/python3.10/lib-dynload/termios.cpython-310-x86_64-linux-gnu.so
+pydoc_data: /usr/lib/python3.10/pydoc_data/__init__.py
+pydoc_data.topics: /usr/lib/python3.10/pydoc_data/topics.py
+http: /usr/lib/python3.10/http/__init__.py
+http.server: /usr/lib/python3.10/http/server.py
+html: /usr/lib/python3.10/html/__init__.py
+html.entities: /usr/lib/python3.10/html/entities.py
+http.client: /usr/lib/python3.10/http/client.py
+ssl: /usr/lib/python3.10/ssl.py
+_ssl: /usr/lib/python3.10/lib-dynload/_ssl.cpython-310-x86_64-linux-gnu.so
+mimetypes: /usr/lib/python3.10/mimetypes.py
+socketserver: /usr/lib/python3.10/socketserver.py
+webbrowser: /usr/lib/python3.10/webbrowser.py
+unittest: /usr/lib/python3.10/unittest/__init__.py
+unittest.result: /usr/lib/python3.10/unittest/result.py
+unittest.util: /usr/lib/python3.10/unittest/util.py
+unittest.case: /usr/lib/python3.10/unittest/case.py
+unittest._log: /usr/lib/python3.10/unittest/_log.py
+unittest.suite: /usr/lib/python3.10/unittest/suite.py
+unittest.loader: /usr/lib/python3.10/unittest/loader.py
+unittest.main: /usr/lib/python3.10/unittest/main.py
+unittest.runner: /usr/lib/python3.10/unittest/runner.py
+unittest.signals: /usr/lib/python3.10/unittest/signals.py
+unittest.async_case: /usr/lib/python3.10/unittest/async_case.py
+asyncio: /usr/lib/python3.10/asyncio/__init__.py
+asyncio.base_events: /usr/lib/python3.10/asyncio/base_events.py
+concurrent: /usr/lib/python3.10/concurrent/__init__.py
+concurrent.futures: /usr/lib/python3.10/concurrent/futures/__init__.py
+concurrent.futures._base: /usr/lib/python3.10/concurrent/futures/_base.py
+concurrent.futures.process: /usr/lib/python3.10/concurrent/futures/process.py
+queue: /usr/lib/python3.10/queue.py
+_queue: /usr/lib/python3.10/lib-dynload/_queue.cpython-310-x86_64-linux-gnu.so
+multiprocessing: /usr/lib/python3.10/multiprocessing/__init__.py
+multiprocessing.context: /usr/lib/python3.10/multiprocessing/context.py
+multiprocessing.process: /usr/lib/python3.10/multiprocessing/process.py
+multiprocessing.util: /usr/lib/python3.10/multiprocessing/util.py
+test: /usr/lib/python3.10/test/__init__.py
+test.support: /usr/lib/python3.10/test/support/__init__.py
+test.support.testresult: /usr/lib/python3.10/test/support/testresult.py
+xml.etree: /usr/lib/python3.10/xml/etree/__init__.py
+xml.etree.ElementTree: /usr/lib/python3.10/xml/etree/ElementTree.py
+xml.etree.ElementPath: /usr/lib/python3.10/xml/etree/ElementPath.py
+_elementtree: None
+_testcapi: /usr/lib/python3.10/lib-dynload/_testcapi.cpython-310-x86_64-linux-gnu.so
+ctypes: /usr/lib/python3.10/ctypes/__init__.py
+_ctypes: /usr/lib/python3.10/lib-dynload/_ctypes.cpython-310-x86_64-linux-gnu.so
+ctypes._endian: /usr/lib/python3.10/ctypes/_endian.py
+ctypes.wintypes: /usr/lib/python3.10/ctypes/wintypes.py
+ctypes.util: /usr/lib/python3.10/ctypes/util.py
+ctypes._aix: /usr/lib/python3.10/ctypes/_aix.py
+urllib.request: /usr/lib/python3.10/urllib/request.py
+urllib.error: /usr/lib/python3.10/urllib/error.py
+urllib.response: /usr/lib/python3.10/urllib/response.py
+nturl2path: /usr/lib/python3.10/nturl2path.py
+http.cookiejar: /usr/lib/python3.10/http/cookiejar.py
+ftplib: /usr/lib/python3.10/ftplib.py
+netrc: /usr/lib/python3.10/netrc.py
+getpass: /usr/lib/python3.10/getpass.py
+test.support.os_helper: /usr/lib/python3.10/test/support/os_helper.py
+_testinternalcapi: /usr/lib/python3.10/lib-dynload/_testinternalcapi.cpython-310-x86_64-linux-gnu.so
+resource: /usr/lib/python3.10/lib-dynload/resource.cpython-310-x86_64-linux-gnu.so
+distutils: /usr/lib/python3.10/distutils/__init__.py
+distutils.ccompiler: /usr/lib/python3.10/distutils/ccompiler.py
+distutils.errors: /usr/lib/python3.10/distutils/errors.py
+distutils.spawn: /usr/lib/python3.10/distutils/spawn.py
+distutils.debug: /usr/lib/python3.10/distutils/debug.py
+distutils.log: /usr/lib/python3.10/distutils/log.py
+distutils.sysconfig: /usr/lib/python3.10/distutils/sysconfig.py
+distutils.text_file: /usr/lib/python3.10/distutils/text_file.py
+distutils.file_util: /usr/lib/python3.10/distutils/file_util.py
+distutils.dep_util: /usr/lib/python3.10/distutils/dep_util.py
+distutils.dir_util: /usr/lib/python3.10/distutils/dir_util.py
+distutils.util: /usr/lib/python3.10/distutils/util.py
+lib2to3: /usr/lib/python3.10/lib2to3/__init__.py
+lib2to3.refactor: /usr/lib/python3.10/lib2to3/refactor.py
+lib2to3.pgen2: /usr/lib/python3.10/lib2to3/pgen2/__init__.py
+lib2to3.pgen2.driver: /usr/lib/python3.10/lib2to3/pgen2/driver.py
+lib2to3.pgen2.grammar: /usr/lib/python3.10/lib2to3/pgen2/grammar.py
+lib2to3.pgen2.token: /usr/lib/python3.10/lib2to3/pgen2/token.py
+lib2to3.pgen2.parse: /usr/lib/python3.10/lib2to3/pgen2/parse.py
+lib2to3.pgen2.tokenize: /usr/lib/python3.10/lib2to3/pgen2/tokenize.py
+lib2to3.pgen2.pgen: /usr/lib/python3.10/lib2to3/pgen2/pgen.py
+lib2to3.fixer_util: /usr/lib/python3.10/lib2to3/fixer_util.py
+lib2to3.pytree: /usr/lib/python3.10/lib2to3/pytree.py
+lib2to3.pygram: /usr/lib/python3.10/lib2to3/pygram.py
+lib2to3.patcomp: /usr/lib/python3.10/lib2to3/patcomp.py
+lib2to3.pgen2.literals: /usr/lib/python3.10/lib2to3/pgen2/literals.py
+lib2to3.btm_matcher: /usr/lib/python3.10/lib2to3/btm_matcher.py
+lib2to3.btm_utils: /usr/lib/python3.10/lib2to3/btm_utils.py
+distutils.filelist: /usr/lib/python3.10/distutils/filelist.py
+distutils.fancy_getopt: /usr/lib/python3.10/distutils/fancy_getopt.py
+faulthandler: None
+asyncio.events: /usr/lib/python3.10/asyncio/events.py
+asyncio.format_helpers: /usr/lib/python3.10/asyncio/format_helpers.py
+asyncio.constants: /usr/lib/python3.10/asyncio/constants.py
+_asyncio: /usr/lib/python3.10/lib-dynload/_asyncio.cpython-310-x86_64-linux-gnu.so
+test.support.import_helper: /usr/lib/python3.10/test/support/import_helper.py
+multiprocessing.forkserver: /usr/lib/python3.10/multiprocessing/forkserver.py
+multiprocessing.connection: /usr/lib/python3.10/multiprocessing/connection.py
+_multiprocessing: /usr/lib/python3.10/lib-dynload/_multiprocessing.cpython-310-x86_64-linux-gnu.so
+hmac: /usr/lib/python3.10/hmac.py
+xmlrpc: /usr/lib/python3.10/xmlrpc/__init__.py
+xmlrpc.client: /usr/lib/python3.10/xmlrpc/client.py
+multiprocessing.resource_sharer: /usr/lib/python3.10/multiprocessing/resource_sharer.py
+multiprocessing.resource_tracker: /usr/lib/python3.10/multiprocessing/resource_tracker.py
+multiprocessing.spawn: /usr/lib/python3.10/multiprocessing/spawn.py
+_posixshmem: /usr/lib/python3.10/lib-dynload/_posixshmem.cpython-310-x86_64-linux-gnu.so
+multiprocessing.reduction: /usr/lib/python3.10/multiprocessing/reduction.py
+multiprocessing.managers: /usr/lib/python3.10/multiprocessing/managers.py
+multiprocessing.pool: /usr/lib/python3.10/multiprocessing/pool.py
+multiprocessing.dummy: /usr/lib/python3.10/multiprocessing/dummy/__init__.py
+multiprocessing.dummy.connection: /usr/lib/python3.10/multiprocessing/dummy/connection.py
+multiprocessing.shared_memory: /usr/lib/python3.10/multiprocessing/shared_memory.py
+mmap: /usr/lib/python3.10/lib-dynload/mmap.cpython-310-x86_64-linux-gnu.so
+secrets: /usr/lib/python3.10/secrets.py
+multiprocessing.synchronize: /usr/lib/python3.10/multiprocessing/synchronize.py
+multiprocessing.heap: /usr/lib/python3.10/multiprocessing/heap.py
+multiprocessing.queues: /usr/lib/python3.10/multiprocessing/queues.py
+multiprocessing.sharedctypes: /usr/lib/python3.10/multiprocessing/sharedctypes.py
+multiprocessing.popen_fork: /usr/lib/python3.10/multiprocessing/popen_fork.py
+multiprocessing.popen_spawn_posix: /usr/lib/python3.10/multiprocessing/popen_spawn_posix.py
+multiprocessing.popen_forkserver: /usr/lib/python3.10/multiprocessing/popen_forkserver.py
+multiprocessing.popen_spawn_win32: /usr/lib/python3.10/multiprocessing/popen_spawn_win32.py
+concurrent.futures.thread: /usr/lib/python3.10/concurrent/futures/thread.py
+asyncio.coroutines: /usr/lib/python3.10/asyncio/coroutines.py
+asyncio.base_futures: /usr/lib/python3.10/asyncio/base_futures.py
+asyncio.log: /usr/lib/python3.10/asyncio/log.py
+asyncio.exceptions: /usr/lib/python3.10/asyncio/exceptions.py
+asyncio.futures: /usr/lib/python3.10/asyncio/futures.py
+asyncio.protocols: /usr/lib/python3.10/asyncio/protocols.py
+asyncio.sslproto: /usr/lib/python3.10/asyncio/sslproto.py
+asyncio.transports: /usr/lib/python3.10/asyncio/transports.py
+asyncio.staggered: /usr/lib/python3.10/asyncio/staggered.py
+asyncio.locks: /usr/lib/python3.10/asyncio/locks.py
+asyncio.mixins: /usr/lib/python3.10/asyncio/mixins.py
+asyncio.tasks: /usr/lib/python3.10/asyncio/tasks.py
+asyncio.base_tasks: /usr/lib/python3.10/asyncio/base_tasks.py
+asyncio.queues: /usr/lib/python3.10/asyncio/queues.py
+asyncio.trsock: /usr/lib/python3.10/asyncio/trsock.py
+asyncio.runners: /usr/lib/python3.10/asyncio/runners.py
+asyncio.streams: /usr/lib/python3.10/asyncio/streams.py
+asyncio.subprocess: /usr/lib/python3.10/asyncio/subprocess.py
+asyncio.threads: /usr/lib/python3.10/asyncio/threads.py
+asyncio.windows_events: /usr/lib/python3.10/asyncio/windows_events.py
+asyncio.base_subprocess: /usr/lib/python3.10/asyncio/base_subprocess.py
+asyncio.proactor_events: /usr/lib/python3.10/asyncio/proactor_events.py
+asyncio.selector_events: /usr/lib/python3.10/asyncio/selector_events.py
+asyncio.windows_utils: /usr/lib/python3.10/asyncio/windows_utils.py
+asyncio.unix_events: /usr/lib/python3.10/asyncio/unix_events.py
+_functools: None
+sre_compile: /usr/lib/python3.10/sre_compile.py
+_sre: None
+sre_parse: /usr/lib/python3.10/sre_parse.py
+sre_constants: /usr/lib/python3.10/sre_constants.py
+--------------------------------------------------
+### Modules NOT imported ###
+collections.namedtuple
+collections.deque
+nt
+_winapi
+collections.ChainMap
+os.path
+org.python.core
+msvcrt
+_frozen_importlib
+_frozen_importlib_external
+winreg
+collections.Counter
+importlib.import_module
+pep517
+importlib.metadata.MetadataPathFinder
+collections.OrderedDict
+_winreg
+java.lang
+vms_lib
+http.HTTPStatus
+ctypes.cdll
+ctypes.c_int
+ctypes.pointer
+ctypes.Structure
+ctypes.macholib.dyld
+ctypes.c_void_p
+ctypes.sizeof
+ctypes.CDLL
+tkinter
+_scproxy
+test.support._force_run
+collections.defaultdict
+asyncio.DefaultEventLoopPolicy
+multiprocessing.AuthenticationError
+multiprocessing.BufferTooShort
+multiprocessing.get_start_method
+multiprocessing.set_start_method
+multiprocessing.get_context
+multiprocessing.TimeoutError
+dummy.Process
+_overlapped
+_rcssmin

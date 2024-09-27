@@ -1,0 +1,8 @@
+--resource
+/home/nam/Doan/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/imports/Doan/.rcc/qmake_Doan.qrc
+--resource
+/home/nam/Doan/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/imports/Doan/.rcc/Doan_raw_qml_0.qrc
+/qt/qml/Doan/Constants.qml
+/qt/qml/Doan/DirectoryFontLoader.qml
+/qt/qml/Doan/EventListModel.qml
+/qt/qml/Doan/EventListSimulator.qml

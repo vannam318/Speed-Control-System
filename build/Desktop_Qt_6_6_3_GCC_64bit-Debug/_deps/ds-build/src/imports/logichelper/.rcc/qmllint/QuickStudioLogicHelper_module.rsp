@@ -1,0 +1,12 @@
+-I
+/home/nam/Doan/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml
+-I
+/home/nam/Doan/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml
+-I
+/home/nam/Qt/6.6.3/gcc_64/./qml
+--resource
+/home/nam/Doan/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/_deps/ds-build/src/imports/logichelper/.rcc/qmake_QtQuick_Studio_LogicHelper.qrc
+--resource
+/home/nam/Doan/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/_deps/ds-build/src/imports/logichelper/.rcc/QuickStudioLogicHelper_raw_qml_0.qrc
+--module
+QtQuick.Studio.LogicHelper

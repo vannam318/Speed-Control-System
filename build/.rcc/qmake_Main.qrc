@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Main">
+    <file alias="qmldir">/home/nam/Doan/build/qml/Main/qmldir</file>
+  </qresource>
+</RCC>
+

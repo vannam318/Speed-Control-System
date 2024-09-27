@@ -1,0 +1,61 @@
+{
+    "classes": [
+        {
+            "className": "ArcItem",
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "startAngle",
+                    "notify": "startAngleChanged",
+                    "read": "startAngle",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "float",
+                    "user": false,
+                    "write": "setStartAngle"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "sweepAngle",
+                    "notify": "sweepAngleChanged",
+                    "read": "sweepAngle",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "float",
+                    "user": false,
+                    "write": "setSweepAngle"
+                }
+            ],
+            "qualifiedClassName": "ArcItem",
+            "signals": [
+                {
+                    "access": "public",
+                    "name": "startAngleChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "sweepAngleChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QQuickPaintedItem"
+                }
+            ]
+        }
+    ],
+    "inputFile": "arcitem.h",
+    "outputRevision": 68
+}

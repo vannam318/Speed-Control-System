@@ -1,0 +1,1162 @@
+{
+	"backtrace" : 3,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"qt6_target_qml_sources",
+			"qt6_add_qml_module",
+			"target_sources"
+		],
+		"files" : 
+		[
+			"/home/nam/Qt/6.6.3/gcc_64/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"content/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 5,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 633,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2443,
+				"parent" : 2
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2446,
+				"parent" : 2
+			}
+		]
+	},
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "content_tooling::@73a38b9e525c9c2ae262",
+	"name" : "content_tooling",
+	"paths" : 
+	{
+		"build" : "content",
+		"source" : "content"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"name" : "Resources",
+			"sourceIndexes" : 
+			[
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94,
+				95,
+				96,
+				97,
+				98,
+				99,
+				100,
+				101,
+				102,
+				103,
+				104,
+				105,
+				106,
+				107,
+				108,
+				109,
+				110,
+				111,
+				112,
+				113,
+				114,
+				115,
+				116,
+				117,
+				118,
+				119,
+				120,
+				121,
+				122,
+				123,
+				124,
+				125,
+				126,
+				127,
+				128,
+				129,
+				130,
+				131,
+				132,
+				133,
+				134,
+				135,
+				136,
+				137,
+				138,
+				139,
+				140,
+				141,
+				142,
+				143,
+				144,
+				145,
+				146,
+				147,
+				148,
+				149,
+				150,
+				151,
+				152,
+				153
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/App.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/Screen01.ui.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/Cluster.ui.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/Light.ui.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/LeftSignal.ui.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/RightSignal.ui.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/Test.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/NavigationItem.ui.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/NavigationScreen.ui.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/Navigate.ui.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/fonts/fonts.txt",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/arrow_left.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/arrow_right.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/assist.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/battery.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/bike-rearwheel.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/blue_circle_gps_area.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/calories.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/curtain_shadow_handle.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/info.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/info_selected.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/lights_off.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/lights_on.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/list.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/list_selected.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/map_locate.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/map_location_arrow.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/map_zoomin.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/map_zoomout.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/nav_nodir.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/search_cancel.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/settings.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/settings_selected.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/small_speedometer_shadow.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/speed.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/top_curtain_drag.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/top_curtain_drag_back.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/trip.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/maps/chart01.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/maps/map01.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/arc_background_track_195_6.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/arc_gauge_display_195_7.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/arc_track_background_195_64.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/backgrounds_195_610.jpg",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/builtwithlogo_195_934.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/Cluster_Art.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/dial_outside_ring_195_9.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/fuel_dial_195_43.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/fuell_dot_40_195_16.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/fuel_needle_195_27.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/gearbox_visual_1_195_187.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/gearbox_visual_2_195_185.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/gearbox_visual_3_195_181.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/gearbox_visual_4_195_179.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/gearbox_visual_5_195_162.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/gearbox_visual_195_150.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/icons8-right-100.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/icons8-rightward-up-arrow-50.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/icons8-rightward-up-arrow-100.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/icons8-up-50.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/icons8-up-100.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/icons8-up-l50.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/icons8-up-left-100.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/iso_195_156.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/map01.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/outer_ring_195_48.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/outside_white_arc_195_46.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/outside_white_arch_195_28.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/rpm_arc_gauge_195_68.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/rpm_dial_195_83.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/rpm_needle_195_65.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/speed_dial_195_151.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/speedometer_current_kph_arc_195_1340.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/speedometer_needle_195_142.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/speedometer_needle_ring_195_90.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/speedometer_track_bg_195_87.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/sppedometer_outer_ring_195_86.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/App.qml.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/Screen01.ui.qml.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/Cluster.ui.qml.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/Light.ui.qml.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/LeftSignal.ui.qml.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/RightSignal.ui.qml.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/Test.qml.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/NavigationItem.ui.qml.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/NavigationScreen.ui.qml.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/Navigate.ui.qml.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/fonts/fonts.txt.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/arrow_left.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/arrow_right.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/assist.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/battery.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/bike-rearwheel.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/blue_circle_gps_area.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/calories.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/curtain_shadow_handle.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/info.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/info_selected.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/lights_off.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/lights_on.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/list.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/list_selected.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/map_locate.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/map_location_arrow.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/map_zoomin.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/map_zoomout.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/nav_nodir.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/search_cancel.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/settings.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/settings_selected.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/small_speedometer_shadow.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/speed.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/top_curtain_drag.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/top_curtain_drag_back.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/trip.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/maps/chart01.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/maps/map01.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/arc_background_track_195_6.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/arc_gauge_display_195_7.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/arc_track_background_195_64.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/backgrounds_195_610.jpg.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/builtwithlogo_195_934.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/Cluster_Art.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/dial_outside_ring_195_9.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/fuel_dial_195_43.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/fuell_dot_40_195_16.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/fuel_needle_195_27.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/gearbox_visual_1_195_187.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/gearbox_visual_2_195_185.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/gearbox_visual_3_195_181.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/gearbox_visual_4_195_179.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/gearbox_visual_5_195_162.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/gearbox_visual_195_150.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/icons8-right-100.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/icons8-rightward-up-arrow-50.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/icons8-rightward-up-arrow-100.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/icons8-up-50.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/icons8-up-100.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/icons8-up-l50.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/icons8-up-left-100.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/iso_195_156.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/map01.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/outer_ring_195_48.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/outside_white_arc_195_46.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/outside_white_arch_195_28.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/rpm_arc_gauge_195_68.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/rpm_dial_195_83.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/rpm_needle_195_65.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/speed_dial_195_151.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/speedometer_current_kph_arc_195_1340.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/speedometer_needle_195_142.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/speedometer_needle_ring_195_90.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/speedometer_track_bg_195_87.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/content/images/sppedometer_outer_ring_195_86.png.rule",
+			"sourceGroupIndex" : 2
+		}
+	],
+	"type" : "INTERFACE_LIBRARY"
+}

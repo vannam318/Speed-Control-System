@@ -1,0 +1,14 @@
+--bare
+-I
+/home/nam/Doan/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml
+-I
+/home/nam/Doan/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml
+-I
+/home/nam/Qt/6.6.3/gcc_64/./qml
+--resource
+/home/nam/Doan/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/_deps/ds-build/src/imports/utils/.rcc/qmake_QtQuick_Studio_Utils.qrc
+--resource
+/home/nam/Doan/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/_deps/ds-build/src/imports/utils/.rcc/QuickStudioUtils_raw_qml_0.qrc
+/home/nam/Doan/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/_deps/ds-src/src/imports/utils/JsonListModel.qml
+/home/nam/Doan/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/_deps/ds-src/src/imports/utils/JsonBackend.qml
+/home/nam/Doan/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/_deps/ds-src/src/imports/utils/ChildListModel.qml

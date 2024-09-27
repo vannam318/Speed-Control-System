@@ -1,0 +1,38 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"imports/Doan/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "Doan_tooling::@d4b1d4cb213165814ee3"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "Doan_autogen_timestamp_deps::@d4b1d4cb213165814ee3",
+	"isGeneratorProvided" : true,
+	"name" : "Doan_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "imports/Doan",
+		"source" : "imports/Doan"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

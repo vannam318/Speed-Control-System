@@ -1,0 +1,11 @@
+module Doan
+linktarget Doanplugin
+optional plugin Doanplugin
+classname DoanPlugin
+typeinfo Doan.qmltypes
+prefer :/qt/qml/Doan/
+singleton Constants 1.0 Constants.qml
+DirectoryFontLoader 1.0 DirectoryFontLoader.qml
+EventListModel 1.0 EventListModel.qml
+EventListSimulator 1.0 EventListSimulator.qml
+

@@ -1,0 +1,41 @@
+{
+    "classes": [
+        {
+            "className": "ImageProvider",
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": true,
+                    "index": 0,
+                    "name": "detectedClass",
+                    "notify": "detectedClassChanged",
+                    "read": "getDetectedClass",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false,
+                    "write": "setDetectedClass"
+                }
+            ],
+            "qualifiedClassName": "ImageProvider",
+            "signals": [
+                {
+                    "access": "public",
+                    "name": "detectedClassChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QQuickImageProvider"
+                }
+            ]
+        }
+    ],
+    "inputFile": "imageprovider.h",
+    "outputRevision": 68
+}

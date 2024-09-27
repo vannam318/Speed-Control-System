@@ -1,0 +1,2 @@
+/usr/bin/ar qc libDoan.a CMakeFiles/Doan.dir/Doan_autogen/mocs_compilation.cpp.o CMakeFiles/Doan.dir/doan_qmltyperegistrations.cpp.o CMakeFiles/Doan.dir/.rcc/qmlcache/Doan_Constants_qml.cpp.o CMakeFiles/Doan.dir/.rcc/qmlcache/Doan_DirectoryFontLoader_qml.cpp.o CMakeFiles/Doan.dir/.rcc/qmlcache/Doan_EventListModel_qml.cpp.o CMakeFiles/Doan.dir/.rcc/qmlcache/Doan_EventListSimulator_qml.cpp.o
+/usr/bin/ranlib libDoan.a

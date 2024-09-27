@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/Doan/">
+    <file alias="Constants.qml">/home/nam/Doan/imports/Doan/Constants.qml</file>
+    <file alias="DirectoryFontLoader.qml">/home/nam/Doan/imports/Doan/DirectoryFontLoader.qml</file>
+    <file alias="EventListModel.qml">/home/nam/Doan/imports/Doan/EventListModel.qml</file>
+    <file alias="EventListSimulator.qml">/home/nam/Doan/imports/Doan/EventListSimulator.qml</file>
+  </qresource>
+</RCC>
+

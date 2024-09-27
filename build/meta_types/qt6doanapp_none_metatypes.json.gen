@@ -1,0 +1,180 @@
+[
+    {
+        "classes": [
+            {
+                "className": "ArcItem",
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "name": "startAngle",
+                        "notify": "startAngleChanged",
+                        "read": "startAngle",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "float",
+                        "user": false,
+                        "write": "setStartAngle"
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 1,
+                        "name": "sweepAngle",
+                        "notify": "sweepAngleChanged",
+                        "read": "sweepAngle",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "float",
+                        "user": false,
+                        "write": "setSweepAngle"
+                    }
+                ],
+                "qualifiedClassName": "ArcItem",
+                "signals": [
+                    {
+                        "access": "public",
+                        "name": "startAngleChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "sweepAngleChanged",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QQuickPaintedItem"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "arcitem.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "InferenceThread",
+                "object": true,
+                "qualifiedClassName": "InferenceThread",
+                "signals": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "frame",
+                                "type": "cv::Mat"
+                            },
+                            {
+                                "name": "output",
+                                "type": "std::vector<Detection>"
+                            }
+                        ],
+                        "name": "detectionsReady",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QThread"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "inferencethread.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "SpeedInterface",
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "name": "mappedSpeed",
+                        "notify": "mappedSpeedChanged",
+                        "read": "mappedSpeed",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "int",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 1,
+                        "name": "detectedSpeedLimit",
+                        "notify": "detectedSpeedLimitChanged",
+                        "read": "getSpeedLimit",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "int",
+                        "user": false
+                    }
+                ],
+                "qualifiedClassName": "SpeedInterface",
+                "signals": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "serialValue",
+                                "type": "int"
+                            }
+                        ],
+                        "name": "serialValueChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "mappedSpeedChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "detectedSpeedLimitChanged",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "data",
+                                "type": "QByteArray"
+                            }
+                        ],
+                        "name": "serialValueHandle",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "speedinterface.h",
+        "outputRevision": 68
+    }
+]

@@ -1,0 +1,14 @@
+-rootPath
+/home/nam/Doan
+-cmake-output
+-output-file
+/home/nam/Doan/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_DoanApp.cmake
+-importPath
+/home/nam/Doan/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml/Main
+-importPath
+/home/nam/Doan/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml
+-importPath
+/home/nam/Qt/6.6.3/gcc_64/./qml
+-qrcFiles
+/home/nam/Doan/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/.rcc/qmake_Main.qrc
+/home/nam/Doan/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/.rcc/DoanApp_raw_qml_0.qrc

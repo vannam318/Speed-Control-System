@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".rcc/qmlcache/DoanApp_main_qml.cpp"
+  ".rcc/qrc_DoanApp_raw_qml_0.cpp"
+  ".rcc/qrc_qmake_Main.cpp"
+  "CMakeFiles/DoanApp_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/DoanApp_autogen.dir/ParseCache.txt"
+  "DoanApp_autogen"
+  "CMakeFiles/DoanApp.dir/DoanApp_autogen/mocs_compilation.cpp.o"
+  "CMakeFiles/DoanApp.dir/DoanApp_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/DoanApp.dir/arcitem.cpp.o"
+  "CMakeFiles/DoanApp.dir/arcitem.cpp.o.d"
+  "CMakeFiles/DoanApp.dir/build/.rcc/qmlcache/DoanApp_main_qml.cpp.o"
+  "CMakeFiles/DoanApp.dir/build/.rcc/qmlcache/DoanApp_main_qml.cpp.o.d"
+  "CMakeFiles/DoanApp.dir/build/.rcc/qmlcache/DoanApp_qmlcache_loader.cpp.o"
+  "CMakeFiles/DoanApp.dir/build/.rcc/qmlcache/DoanApp_qmlcache_loader.cpp.o.d"
+  "CMakeFiles/DoanApp.dir/build/.rcc/qrc_DoanApp_raw_qml_0.cpp.o"
+  "CMakeFiles/DoanApp.dir/build/.rcc/qrc_DoanApp_raw_qml_0.cpp.o.d"
+  "CMakeFiles/DoanApp.dir/build/.rcc/qrc_qmake_Main.cpp.o"
+  "CMakeFiles/DoanApp.dir/build/.rcc/qrc_qmake_Main.cpp.o.d"
+  "CMakeFiles/DoanApp.dir/doanapp_qmltyperegistrations.cpp.o"
+  "CMakeFiles/DoanApp.dir/doanapp_qmltyperegistrations.cpp.o.d"
+  "CMakeFiles/DoanApp.dir/inference.cpp.o"
+  "CMakeFiles/DoanApp.dir/inference.cpp.o.d"
+  "CMakeFiles/DoanApp.dir/inferencethread.cpp.o"
+  "CMakeFiles/DoanApp.dir/inferencethread.cpp.o.d"
+  "CMakeFiles/DoanApp.dir/src/main.cpp.o"
+  "CMakeFiles/DoanApp.dir/src/main.cpp.o.d"
+  "CMakeFiles/DoanApp.dir/src/speedinterface.cpp.o"
+  "CMakeFiles/DoanApp.dir/src/speedinterface.cpp.o.d"
+  "DoanApp"
+  "DoanApp.pdb"
+  "doanapp_qmltyperegistrations.cpp"
+  "meta_types/qt6doanapp_none_metatypes.json"
+  "meta_types/qt6doanapp_none_metatypes.json.gen"
+  "qml/Main/DoanApp.qmltypes"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/DoanApp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

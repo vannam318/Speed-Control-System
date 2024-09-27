@@ -1,0 +1,12 @@
+-I
+/home/nam/Doan/build/Desktop_Qt_6_6_3_GCC_64bit-Debug
+-I
+/home/nam/Doan/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/qml
+-I
+/home/nam/Qt/6.6.3/gcc_64/./qml
+--resource
+/home/nam/Doan/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/.rcc/qmake_Main.qrc
+--resource
+/home/nam/Doan/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/.rcc/DoanApp_raw_qml_0.qrc
+--module
+Main

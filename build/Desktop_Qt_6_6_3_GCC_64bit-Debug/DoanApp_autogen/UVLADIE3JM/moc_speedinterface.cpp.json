@@ -1,0 +1,148 @@
+{
+    "classes": [
+        {
+            "className": "SpeedInterface",
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "mappedSpeed",
+                    "notify": "mappedSpeedChanged",
+                    "read": "mappedSpeed",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": true,
+                    "index": 1,
+                    "name": "detectedClass",
+                    "notify": "detectedClassChanged",
+                    "read": "detectedClass",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false,
+                    "write": "setDetectedClass"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "name": "detectedSpeed",
+                    "notify": "detectedSpeedChanged",
+                    "read": "detectedSpeed",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "SpeedInterface",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "serialValue",
+                            "type": "int"
+                        }
+                    ],
+                    "name": "serialValueChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "mappedSpeedChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "className",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "detectedClassChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "detectedSpeed",
+                            "type": "int"
+                        }
+                    ],
+                    "name": "detectedSpeedChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "data",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "dataSentToArduino",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "data",
+                            "type": "QByteArray"
+                        }
+                    ],
+                    "name": "serialValueHandle",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "className",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "setDetectedClass",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "data",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "sendDataToArduino",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "speedinterface.h",
+    "outputRevision": 68
+}

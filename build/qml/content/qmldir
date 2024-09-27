@@ -1,0 +1,17 @@
+module content
+linktarget contentplugin
+optional plugin contentplugin
+classname contentPlugin
+typeinfo content.qmltypes
+prefer :/qt/qml/content/
+App 1.0 App.qml
+Screen01 1.0 Screen01.ui.qml
+Cluster 1.0 Cluster.ui.qml
+Light 1.0 Light.ui.qml
+LeftSignal 1.0 LeftSignal.ui.qml
+RightSignal 1.0 RightSignal.ui.qml
+Test 1.0 Test.qml
+NavigationItem 1.0 NavigationItem.ui.qml
+NavigationScreen 1.0 NavigationScreen.ui.qml
+Navigate 1.0 Navigate.ui.qml
+

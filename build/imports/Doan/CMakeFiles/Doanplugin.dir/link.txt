@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../qml/Doan/libDoanplugin.a CMakeFiles/Doanplugin.dir/Doanplugin_autogen/mocs_compilation.cpp.o CMakeFiles/Doanplugin.dir/Doanplugin_DoanPlugin.cpp.o
+/usr/bin/ranlib ../../qml/Doan/libDoanplugin.a

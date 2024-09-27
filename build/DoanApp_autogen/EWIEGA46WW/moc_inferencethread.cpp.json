@@ -1,0 +1,34 @@
+{
+    "classes": [
+        {
+            "className": "InferenceThread",
+            "object": true,
+            "qualifiedClassName": "InferenceThread",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "frame",
+                            "type": "cv::Mat"
+                        },
+                        {
+                            "name": "output",
+                            "type": "std::vector<Detection>"
+                        }
+                    ],
+                    "name": "detectionsReady",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QThread"
+                }
+            ]
+        }
+    ],
+    "inputFile": "inferencethread.h",
+    "outputRevision": 68
+}
