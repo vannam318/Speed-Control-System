@@ -1,0 +1,17 @@
+# Python dependencies
+python>=3.8
+numpy>=1.21.0
+opencv-python>=4.10.0
+
+# Qt libraries (if using PyQt6 or PySide6 for Python bindings)
+PyQt6>=6.2.0  # Or you can use PySide6
+PyQt6-Qml>=6.2.0
+PyQt6-Quick>=6.2.0
+PyQt6-SerialPort>=6.2.0
+PyQt6-Multimedia>=6.2.0
+PyQt6-Widgets>=6.2.0
+
+# ONNX Runtime
+onnxruntime>=1.15.0
+
+# Any additional libraries related to the ONNX model or other requirements
